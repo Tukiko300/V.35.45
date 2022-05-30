@@ -31,7 +31,7 @@ function pickRandom(list) {
 return list[Math.floor(list.length * Math.random())]
 }
 
-global.work = ["Trabajas como cortador de galletas y ganas", "Trabaja para una empresa militar privada, ganando", "Organiza un evento de cata de vinos y obtiene",
+global.work = ["KOMI-SAN", "Trabaja para una empresa militar privada, ganando", "Organiza un evento de cata de vinos y obtiene",
  "Te secuestran y te llevan a un coliseo subterráneo donde luchaste contra monstruos con personas que nunca antes habías conocido. Ganas", "Limpias la chimenea y encuentras", 
 "Desarrollas juegos para ganarte la vida y ganas", 
 "¿Por qué este comando se llama trabajo? Ni siquiera estás haciendo nada relacionado con el trabajo. Sin embargo, ganas", "Trabajaste en la oficina horas extras por", 
@@ -49,6 +49,6 @@ global.work = ["Trabajas como cortador de galletas y ganas", "Trabaja para una e
 "Trabajas como podador de arbustos para *FG98* y ganas", "La demanda de juegos para dispositivos móviles ha aumentado, por lo que creas un nuevo juego lleno de micro-transacciones. Con tu nuevo juego ganas un total de", 
 "Trabajas como actor de voz para Bob Esponja y te las arreglaste para ganar", 
 "Estabas cultivando y Ganaste", "Trabajas como constructor de castillos de arena y ganas", "Trabajaste y Ganaste", 
-"Trabajas como artista callejera y ganas","¡Hiciste trabajo social por una buena causa! por tu buena causa Recibiste", 
-"Llevas mujeres a la tienda por"
+"TU 🐾 𝙸𝙽𝙵𝙾𝙱𝙾𝚃 🐾","¡Hiciste trabajo social por una buena Cagada! por tu buena causa Recibiste", 
+"CAGAS POR"
 ]
