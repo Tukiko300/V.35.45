@@ -49,7 +49,7 @@ let res = await axios("https://meme-api.herokuapp.com/gimme/ecchi")
 let json = res.data
 let url = json.url
 conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)} 
-if (command == 'furro') {
+if (command == '') {
 let res = await axios("https://meme-api.herokuapp.com/gimme/Furryporn")
 let json = res.data
 let url = json.url
@@ -69,22 +69,22 @@ let res = await axios("https://meme-api.herokuapp.com/gimme/panties")
 let json = res.data
 let url = json.url
 conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
-if (command == 'pene') {
+if (command == '') {
 let res = await axios("https://meme-api.herokuapp.com/gimme/penis")
 let json = res.data
 let url = json.url
 conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
-if (command == 'porno') {
+if (command == '') {
 let res = await axios("https://meme-api.herokuapp.com/gimme/nsfw")
 let json = res.data
 let url = json.url
 conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
-if (command == 'porno2') {
+if (command == '') {
 let res = await axios("https://meme-api.herokuapp.com/gimme/porngif")
 let json = res.data
 let url = json.url
 conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
-if (command == 'randomxxx') {
+if (command == '') {
 let res = await axios("https://meme-api.herokuapp.com/gimme/nsfw")
 let json = res.data
 let url = json.url
@@ -94,12 +94,12 @@ let res = await axios("https://meme-api.herokuapp.com/gimme/sideboobs")
 let json = res.data
 let url = json.url
 conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
-if (command == 'yaoi') {
+if (command == '') {
 let res = await axios("https://meme-api.herokuapp.com/gimme/yaoigif")
 let json = res.data
 let url = json.url
 conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
-if (command == 'yaoi2') {
+if (command == '') {
 let res = await axios("https://meme-api.herokuapp.com/gimme/yaoi")
 let json = res.data
 let url = json.url
