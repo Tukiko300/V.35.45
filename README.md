@@ -4,7 +4,7 @@
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
 <a href="http://wa.me/595985168557" target="blank"><img src="https://img.shields.io/badge/Tsukiko-300-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-> NO BOT
+> (・∀・)
 ```
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
