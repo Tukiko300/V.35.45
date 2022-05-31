@@ -65,7 +65,5 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - SE RECOMIENDA REESCANEAR EL CODIGO QR CADA 2 DIAS, PARA EVITAR PROBLEMAS O ERRORES
 ```
 
-## `EDITOR Y PORPIETARIO DEL BOT` 
-[![Tukiko300](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://github.com/Tukiko300/  
 V.35.45 __________ By Tsukiko300`
 
